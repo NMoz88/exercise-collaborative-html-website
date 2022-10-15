@@ -1,0 +1,52 @@
+.heading-page{
+    background-color: #ffffff;
+}
+
+.round-img{
+    width:300px;
+    height:300px;
+    border-radius:150px;
+}
+
+.heading{
+    display: flex;
+    padding: 5%;
+}
+
+.color-span{
+    color: #7b7b7b
+}
+
+.contact{
+    text-align: center;
+    background-color: #ffffff;
+    padding: 2%;
+}
+
+.background{
+    background-color: #F5F5F5;
+    padding: 1%;
+    width: 70%;
+}
+
+.text{
+    text-align: start;
+    width: 85%;
+    margin-left: 8%;
+}
+
+.form-group, .email{
+    margin-top: 1%;
+}
+
+.inp-email{
+    margin-top: -1%;
+}
+
+.right-button{
+    justify-content: flex-end;
+}
+
+.margin-button{
+    margin-left: 35%;
+}
